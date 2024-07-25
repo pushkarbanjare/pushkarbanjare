@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Banjare</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarbanjare&label=Profile%20views&color=e5122a&style=flat" alt="pushkarbanjare" /> </p>
 
