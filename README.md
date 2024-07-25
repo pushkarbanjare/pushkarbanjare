@@ -19,7 +19,7 @@
 <!-- Instagram -->
 <a href="https://instagram.com/pushkar.banjare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkar.banjare" height="30" width="40" /></a>&nbsp;
 <!-- Youtube -->
-<a href="https://www.youtube.com/c/pushkarbanjare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pushkarbanjare" height="30" width="40" /></a>&nbsp;
+<a href="https://www.youtube.com/@pushkarbanjare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pushkarbanjare" height="30" width="40" /></a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
