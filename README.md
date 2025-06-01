@@ -46,7 +46,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/pushkarbanjare/pushkarbanjare/output/github-snake.svg" />
 </picture>
 
-## 
+## 🔗 Connect
 <p align="center">
   <a href="https://twitter.com/pushkarbanjare" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
