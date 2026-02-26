@@ -9,9 +9,12 @@
 </p>
 
 ### 🧑‍💻 About Me
-- 💡 Building at the intersection of **Web**, **Web3**, and **AI/ML**
+- 💡 Building at the intersection of **Web** and **AI/ML**
+
 - 🌱 Exploring modern stacks for **intelligent**, **scalable** solutions
+
 - 🚀 Gaining real-world experience through **projects** and **open-source**
+
 - 📫 Reach me: ***banjarepushkar.2k3@gmail.com***
 
 ---
@@ -25,20 +28,30 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushkarbanjare&layout=compact&theme=dracula&hide_border=true" />
+  <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushkarbanjare&layout=compact&theme=dracula&hide_border=true" 
+  height="170"
+  />
+  <img 
+  src="https://streak-stats.demolab.com?user=pushkarbanjare&theme=dracula&hide_border=true" 
+  height="170"
+  />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/pushkarbanjare" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://x.com/pushkarbanjare" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
+  <a href="https://linkedin.com/in/pushkarbanjare" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://leetcode.com/pushkarbanjare" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.instagram.com/pushkar.banjare" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
