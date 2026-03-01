@@ -51,6 +51,9 @@
   <a href="https://leetcode.com/pushkarbanjare" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/pushkarbanjare" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
   <a href="https://www.instagram.com/pushkar.banjare" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
