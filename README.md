@@ -28,14 +28,10 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushkarbanjare&layout=compact&theme=dracula&hide_border=true" 
-  height="170"
-  />
-  <img 
-  src="https://streak-stats.demolab.com?user=pushkarbanjare&theme=dracula&hide_border=true" 
-  height="170"
-  />
+    <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarbanjare&layout=compact&theme=dracula&hide_border=true" 
+    height="170"
+    />
 </p>
 
 ---
@@ -57,6 +53,9 @@
   <a href="https://www.instagram.com/pushkar.banjare" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+    <a href="https://www.youtube.com/@pushkarbanjare" target="_blank"> 
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> 
+    </a>
 </p>
 
 <div align="center">
